@@ -1,0 +1,6 @@
+D:\Quizzing\Quizzing_Model.Model\bin\Debug\Quizzing_Model.Model.dll
+D:\Quizzing\Quizzing_Model.Model\bin\Debug\Quizzing_Model.Model.pdb
+D:\Quizzing\Quizzing_Model.Model\obj\Debug\Quizzing_Model.Model.csproj.AssemblyReference.cache
+D:\Quizzing\Quizzing_Model.Model\obj\Debug\Quizzing_Model.Model.csproj.CoreCompileInputs.cache
+D:\Quizzing\Quizzing_Model.Model\obj\Debug\Quizzing_Model.Model.dll
+D:\Quizzing\Quizzing_Model.Model\obj\Debug\Quizzing_Model.Model.pdb
